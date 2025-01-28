@@ -1,7 +1,7 @@
 # Instagram-Followers
-A light weight program that let's you see which users don't follow you back and which users you don't follow back. The data are imported manually by requesting your them from Meta. The program only proccess them locally.
+A light weight program that let's you see which users don't follow you back and which users you don't follow back. The data are imported manually by requesting them from Meta. The program only proccess them locally.
 
-Python Requirement:
+Requirements:
 
 You must have Python installed to run this program.
 If you don't have Python installed, you can download it from https://www.python.org/downloads/.
